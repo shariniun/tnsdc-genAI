@@ -23,12 +23,8 @@ Before you begin, ensure you have installed the following:
 ## Installation 
 
 1. Clone this repository:
-```bash
-git clone https://github.com/DevRico003/youtube_summarizer
-```
 2. Change into the cloned repository:
-```bash
-cd youtube_summarizer
+
 ```
 3. Install all necessary packages:
 ```bash
@@ -71,6 +67,3 @@ Please note that this application relies on the OpenAI GPT-3.5 language model, a
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
